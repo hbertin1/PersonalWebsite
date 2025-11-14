@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-eicc-framework
 excerpt: ''
-date: 2025
+date: 2025-06-14
 venue: 'European Interdisciplinary Cybersecurity Conference (EICC)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://hdl.handle.net/10754/704550'
