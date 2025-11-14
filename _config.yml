@@ -22,10 +22,10 @@ repository               : "hbertin1/PersonalWebsite"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Hugo Bertin"
   pronouns         : "he/him"  
-  bio              : "Ph.D. Student at the University of Rennes."
+  bio              : "Ph.D. Student at IRISA"
   location         : "Earth"
   employer         : "University of Rennes"
   uri              : # URL
