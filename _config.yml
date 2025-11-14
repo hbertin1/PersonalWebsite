@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Hugo Bertin"
 title_separator          : "-"
 name                     : &name "Hugo Bertin"
-description              : &description "I am a Ph.D. student at the [IRISA](https://www.irisa.fr/) research center at the [University of Rennes](https://www.univ-rennes.fr/), France. My research is conducted under the supervision of Prof. David Bromberg (University of Rennes) and Prof. Marc Dacier (KAUST). I am part of the [Wide](https://team.inria.fr/wide/) research team."
+description              : &description "Hugo Bertin's personal website"
 url                      : https://hbertin1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/PersonalWebsite" # the subpath of your site, e.g. "/blog"
 repository               : "hbertin1/PersonalWebsite"
@@ -22,14 +22,14 @@ repository               : "hbertin1/PersonalWebsite"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "profile.jpeg"
+  name             : "Hugo Bertin"
+  pronouns         : "he/him"  
+  bio              : "Ph.D. Student at the University of Rennes."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Rennes"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hugo.bertin@irisa.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
