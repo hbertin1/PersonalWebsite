@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Hugo Bertin"
 title_separator          : "-"
 name                     : &name "Hugo Bertin"
-description              : &description "Hugo Bertin's personal website"
+description              : &description "Hugo Bertin's website"
 url                      : https://hbertin1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/PersonalWebsite" # the subpath of your site, e.g. "/blog"
-repository               : "hbertin1/PersonalWebsite"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "hbertin1/hbertin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-8869-7210"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Hugo-Bertin-2316072336"
   scopus           : # URL
   dblp             : "https://dblp.org/pid/205/4631"
 
