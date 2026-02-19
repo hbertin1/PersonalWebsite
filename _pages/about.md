@@ -15,6 +15,11 @@ I am interested in security concerns related to multiplayer online games systems
 Before that, I was a visiting student within the [SeRBER](https://serber.kaust.edu.sa/) research group at KAUST, Saudi Arabia.
 
 
+## Gaming Security Experiments
+We’re currently conducting research on cheating detection in online games and are looking for participants to join our game sessions. If you’re interested in taking part, feel free to reach out!
+
+You can find more details about the online game used in our study on the [experiments website](https://hbertin1.github.io/website_lyra_experiments_gaming_sec/).
+
 ## News 
 
 - [October'25] Our paper *Disconnecting Users from Virtual Worlds with a Single Packet: an Unreal Untold Story* got the Best Student Paper award at [iMeta 2025](https://imeta-conference.org/2025/). Preprint available [here](https://hal.science/hal-05202617v1/file/Unreal_Engine_DoS___iMeta25.pdf)
